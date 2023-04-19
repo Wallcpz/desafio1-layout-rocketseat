@@ -1,0 +1,90 @@
+
+
+body {
+    margin-top: 64px;
+    text-align: center;
+    box-sizing: border-box;
+    
+}
+
+
+.destino { 
+ color: #EE24FF;
+
+
+}
+
+
+main {
+
+margin-top: 64px;
+margin-bottom: 64px;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+
+main h1 {
+    font-family: 'Dosis', sans-serif;
+    font-weight: 500;
+    font-size: 2rem;
+    line-height: 40px;
+    color: #3F3D56;
+    margin-bottom: 16px;
+}
+
+main p {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+}
+
+
+
+
+
+
+footer {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 22px;
+
+
+
+}
+
+a + a {
+
+    margin-left: 42px;
+
+
+}
+
+
+a {
+    text-decoration: none;
+}
+
+
+strong {
+   color: #3F3D56;
+}
+
+
+#line {
+    width: 391px;
+
+    height: 0;
+    border: 1px solid #ECEFF2;
+    margin: 0 auto 16px;
+}
+
+
+
+.wave {
+    width: 100%;
+
+}
